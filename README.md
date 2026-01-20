@@ -1,2 +1,2 @@
 # RyanAbouhalaPublicRemoteRepo1
-Lab 1 – Git and GitHub exercises
+My name is Rayan AbouHala This repository is for Lab 1 – Git and GitHub.
